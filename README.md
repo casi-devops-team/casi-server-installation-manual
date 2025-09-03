@@ -14,7 +14,7 @@
 1. Connect to the server via SSH or go to terminal.
 3. Run the following command and follow the instructions to launch the mqtt broker.
    ```
-   curl -sSL -o casi_script.sh https://gist.githubusercontent.com/casi-devops-team/6a60b7ddf6e3472febb608a2f3d4a931/raw/cc1e5608113875b1620040739bdfed95bf30840b/casi-local-instant-installation.sh && sudo bash casi_script.sh
+   curl -sSL -o casi_script.sh https://gist.githubusercontent.com/casi-devops-team/764f09e8f46ea7f69e30fcaa3dc63943/raw/d2d83b990748d824450499867f4b2250b1b297f6/casi-main-instant-installation.sh && sudo bash casi_script.sh
    ```
 
    Notes:
